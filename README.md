@@ -91,3 +91,17 @@ Integrate caching and content delivery within solutions
 Implement API Management
 Develop message-based solutions
 Develop event-based solutions
+
+## Items
+01_Create-Azure-App-Service-web-apps
+02_Implement-Azure-Functions
+03_Develop-solutions-that-use-Blob-storage
+04_Develop-solutions-that-use-Azure-Cosmos-DB
+05_Implement-Infrastructure-as-a-service-solutions
+06_Implement-user-authentication-and-authorization
+07_Implement-secure-cloud-solutions
+10_Implement-API-Management
+12_Develop-event-based-solutions
+11_Develop-message-based-solutions
+08_Instrument-solutions-to-support-monitoring-and-logging
+09_Integrate-caching-and-content-delivery-within-solutions
